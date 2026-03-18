@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Call me Joel. I'll be using this GitHub account for contributing to other projects and hosting my website.
+Call me Joel. I like solving problems.
+
+I'm using this GitHub account for contributing to other projects and hosting my website.
 
 My personal software projects are hosted on [Codeberg](https://codeberg.org/jtorres).
 
