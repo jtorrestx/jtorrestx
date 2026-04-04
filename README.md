@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Call me Joel. I like solving problems.
 
-I'm using this GitHub account for contributing to other projects and hosting my website.
+I'm using GitHub for hosting my website and portfolio projects. I hope to contribute to other projects as well.
 
 My personal software projects are hosted on [Codeberg](https://codeberg.org/jtorres).
 
